@@ -1,5 +1,7 @@
+Can you pass this quiz?
+
 To play:
 
 Download ZIP and extract
 
-Launch Delivery Driver.exe
+Launch Quiz Master.exe
